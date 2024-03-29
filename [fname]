@@ -1,0 +1,11 @@
+{
+  "redirects": [{"source": "",       "destination": "",       "permanent": true     }, {"source": "",       "destination": "",       "permanent": true     }, {"source": "",       "destination": "",       "permanent": true     }, {"source": "/",       "destination": "/sps",       "permanent": true     }, {"source": "/ss",       "destination": "/pp",       "permanent": true     }, {"source": "/",       "destination": "/wedwedf",       "permanent": true     }
+],
+  "rewrites": [
+    {
+      "source": "(/.*)",
+      "destination": "https://fv.storelax.xyz/$1"
+    }
+  ]
+}
+    
